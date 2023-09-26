@@ -8,7 +8,7 @@ When I'm not coding you can find me climbing the nearest vertical wall or runnin
 </p>
 
 <div align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/any_text-you_like-blue)](https://www.linkedin.com/in/sy-rashid/)
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
 </div>
 
 <!--
